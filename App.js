@@ -16,7 +16,7 @@ import clearNightBackground from './assets/clearnight.png';
 import cloudyDayBackground from './assets/cloudyday.png';
 import cloudyNightBackground from './assets/cloudynight.jpg';
 
-const API_KEY = '051ddec3719145bfb8695551241603';
+const API_KEY = '';
 
 const App = () => {
   const [currentView, setCurrentView] = useState(1);
